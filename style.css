@@ -1,0 +1,22 @@
+
+h1{
+    text-align: center;
+    color: #131515;
+    background-color: #339989;
+}
+h3{
+    color: #131515;
+    background-color: #7de2d1 ;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+h4{
+    text-decoration: none;
+    color: #2b2c28;
+    background-color: #7de2d1;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: #2b2c28;
+}
